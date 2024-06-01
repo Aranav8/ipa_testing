@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618229129849",
+    "project_id": "push-notification---ridobiko",
+    "storage_bucket": "push-notification---ridobiko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618229129849:android:9b1078ca8668447fb52aa8",
+        "android_client_info": {
+          "package_name": "com.ridobikocustomer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2KOspoi7d4qMzJxQF1qJPUuXK2mojopg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
